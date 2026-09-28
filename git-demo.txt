@@ -1,2 +1,3 @@
 Git Skills Demonstration
-This file demonstrates adding and modifying 
+This file demonstrates adding and modifying a file using GitHub. 
+I modified this file for my GitHub assignment. 
